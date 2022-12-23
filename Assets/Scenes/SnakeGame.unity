@@ -252,6 +252,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e859a7362f1d85b42ad79be0748a70c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  snakeSegmentPrefab: {fileID: 575230886757945789, guid: 3a393ff0ae3984a44a3e5e8388e766ad, type: 3}
 --- !u!1 &2099804041
 GameObject:
   m_ObjectHideFlags: 0
